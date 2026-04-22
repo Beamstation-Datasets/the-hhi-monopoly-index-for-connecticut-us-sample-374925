@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e78824e5-5f1b-4d6a-be0f-f37c014e5ab8",
+  "export_job_id": "bbde1ec4-137b-408c-a5c3-04a5407e2748",
   "id_short": 374925,
-  "published_at": "2026-04-18T07:58:44Z",
+  "published_at": "2026-04-22T07:25:40Z",
   "repo_name": "the-hhi-monopoly-index-for-connecticut-us-sample-374925",
   "sample_asset_name": "beamstation_374925_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/374925/beamstation_374925_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_records": 40,
-  "sample_sha256": "be69f945726f3a284a5768b3e76eaa672a2f64aa9301d61a0508f2b37a9f7269",
-  "sample_size_bytes": 170175,
-  "total_records": 400
+  "sample_records": 31,
+  "sample_sha256": "f4d4cf5654300ff48ffbe35e04b23336be4c40cf710f5c295babe06d963768bf",
+  "sample_size_bytes": 135136,
+  "total_records": 316
 }
