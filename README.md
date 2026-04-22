@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Connecticut, US
 
-> Free BeamStation sample export with 40 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `374925` |
 | Location | Connecticut |
 | Category | Restaurants |
-| Full dataset size | 400 records |
-| Free sample size | 40 records (10.0%) |
-| Last export | 2026-04-14T23:47:58.393792+00:00 |
+| Full dataset size | 316 records |
+| Free sample size | 31 records (9.81%) |
+| Last export | 2026-04-22T03:33:02.847158+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-connecticut-us-sample-374925/releases/download/sample-latest/beamstation_374925_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
